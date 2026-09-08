@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCF-A Paper Writing"
+  short_description: "Evidence-first, reviewer-resistant academic writing"
+  default_prompt: "Use $ccf-a-paper-writing to turn my research materials into a persuasive, evidence-aligned CCF-A-caliber paper."
